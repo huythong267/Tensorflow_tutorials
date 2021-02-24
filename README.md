@@ -6,4 +6,4 @@ This repo contains several examples to build ML models with Tensorflow:
   + [Include custom python functions to tf Dataset](https://colab.research.google.com/drive/1ybJ8c6RnNsHrRe7wDnoh0fNV5SZiu8PE)
   + [Strong Image Augmentation](https://colab.research.google.com/drive/1-HBWcue8Wsw42C290qsD8JEiSxkZW5K-#scrollTo=HozF7Mpi9eH5)
 + DeepNet Architectures
-  + [WideResnet](https://colab.research.google.com/drive/1JELSUpxEcSMaxgtxFXJGSCRUlii3vIYy#scrollTo=5yqC6eMfZg1B)
+  + [WideResnet](https://github.com/huythong267/WideResnet_Tensorflow_Keras)
